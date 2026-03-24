@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>烛龙国际医疗</title>
+    <link href="https://globaldragonm.com/feed.xml" rel="self" />
+    <link href="https://globaldragonm.com" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>烛龙国际医疗</name>
+    </author>
+    <id>https://globaldragonm.com</id>
+
+</feed>
